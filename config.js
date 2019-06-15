@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Sabtain Khan,
+  subtitle: 'Live in NYC, I read a lot',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,11 +23,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Sabtain Khan',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Passionate reader, drop me a line if you love to read and discuss books!',
     contacts: {
-      email: '#',
+      email: 'sabtain.a.khan@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
