@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Sabtain Khan,
+  title: 'Sabtain Khan',
   subtitle: 'Live in NYC, I read a lot',
   copyright: '© All rights reserved.',
   disqusShortname: '',
